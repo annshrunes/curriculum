@@ -1,0 +1,4 @@
+project_id = "jynclnstjpekjepvztyh"
+
+[functions.generate-curriculum]
+verify_jwt = false
